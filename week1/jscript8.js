@@ -1,14 +1,14 @@
 >
-var x = 5;
+let x = 5;
 undefined
     >
-    var y = 'me';
+    let y = 'me';
 undefined
     >
-    var z = 2;
+    let z = 2;
 undefined
     >
-    var v = false;
+    let v = false;
 undefined
     >
     console.log(x);
@@ -29,16 +29,16 @@ undefined
 
 
     >
-    var typeX = typeof(x);
+    let typeX = typeof(x);
 undefined
     >
-    var typeY = typeof(y);
+    let typeY = typeof(y);
 undefined
     >
-    var typeZ = typeof(z);
+    let typeZ = typeof(z);
 undefined
     >
-    var typeV = typeof(v);
+    let typeV = typeof(v);
 undefined
     >
     console.log(typeX);
